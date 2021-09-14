@@ -1,0 +1,16 @@
+{
+    "name": "georgeputnam/hautelook",
+    "description": "Copy of hautelook",
+    "autoload": {
+        "psr-4": {
+            "Georgeputnam\\Hautelook\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "George Putnam",
+            "email": "george.putnam@sawdays.co.uk"
+        }
+    ],
+    "require": {}
+}
